@@ -1,24 +1,7 @@
 # album
+https://bolaslien.github.io/album/
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 建置
+後台放Heroku
+前台放Github Page(利用Travis CI自動打包)
+相片伺服器在wda
